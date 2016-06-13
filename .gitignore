@@ -1,0 +1,6 @@
+*.iml
+.idea
+.vagrant
+.DS_Store
+npm-debug.log
+node_modules/

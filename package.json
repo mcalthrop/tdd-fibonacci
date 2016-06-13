@@ -1,0 +1,35 @@
+{
+  "name": "tdd-fibonacci",
+  "version": "1.0.0",
+  "description": "TDD JavaScript implementation of Fibonacci series function",
+  "scripts": {
+    "test": "karma start config/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcalthrop/tdd-fibonacci.git"
+  },
+  "keywords": [
+    "tdd",
+    "fibonacci"
+  ],
+  "author": {
+    "name": "Matt Calthrop",
+    "url": "https://github.com/mcalthrop"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcalthrop/tdd-fibonacci/issues"
+  },
+  "homepage": "https://github.com/mcalthrop/tdd-fibonacci#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-mocha": "^1.0.1",
+    "karma-mocha-reporter": "^2.0.4",
+    "karma-requirejs": "^1.0.0",
+    "mocha": "^2.5.3",
+    "requirejs": "^2.2.0"
+  }
+}
