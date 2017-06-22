@@ -21,3 +21,7 @@ The following npm modules are used:
 - [mocha](https://mochajs.org/#getting-started) for the test framework and reporter
 - [Chrome](https://www.google.com/chrome/) for the browser to run the tests in
 - [requirejs](http://requirejs.org/) to modularise the code
+
+## License
+
+[MIT](LICENSE)
