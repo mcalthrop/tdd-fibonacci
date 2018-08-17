@@ -6,7 +6,7 @@ TDD JavaScript implementation of Fibonacci series function.
 
 This project demonstrates a [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) approach to writing a JavaScript function to calculate a given element of the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number).
 
-## How?
+## How do I use it?
 
 Firstly, fork this repo. Clone it locally, and then run `npm install`.
 
