@@ -1,6 +1,6 @@
 # tdd-fibonacci
 
-TDD JavaScript implementation of Fibonacci series function
+TDD JavaScript implementation of Fibonacci series function.
 
 ## What is this project about?
 
@@ -14,13 +14,10 @@ And secondly, step through the slides at [mcalthrop.github.io/tdd-fibonacci](htt
 
 ## What tools are used?
 
-The following npm modules are used:
+The following tools are used:
 
-- [karma](https://karma-runner.github.io/) for the test runner
-- [chai](http://chaijs.com/api/bdd/) for the expectation library
-- [mocha](https://mochajs.org/#getting-started) for the test framework and reporter
+- [jest](https://jestjs.io/) for the test runner
 - [Chrome](https://www.google.com/chrome/) for the browser to run the tests in
-- [requirejs](http://requirejs.org/) to modularise the code
 
 ## License
 
