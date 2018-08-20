@@ -1,6 +1,6 @@
 const fibonacci = require('../lib/fibonacci');
 
-describe('fibonacci', () => {
+describe('fibonacci()', () => {
 
     describe('when index is 0', () => {
         it('should return 1', () => {
