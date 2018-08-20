@@ -8,7 +8,7 @@ This project demonstrates a [Test-Driven Development](https://en.wikipedia.org/w
 
 ## How do I use it?
 
-Firstly, fork this repo. Clone it locally, and then run `npm install`.
+Firstly, fork this repo. Clone it to your local machine, and then run `npm install`.
 
 And secondly, step through the slides at [mcalthrop.github.io/tdd-fibonacci](http://mcalthrop.github.io/tdd-fibonacci/#1), modifying your cloned repo as you go.
 
